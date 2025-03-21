@@ -10,3 +10,6 @@
 lokhandemm/lokhandemm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![lokhandemm's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokhandemm&show_icons=true&theme=radical&card_width=450)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lokhandemm&theme=radical&card_width=450)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokhandemm&layout=compact&theme=radical)
