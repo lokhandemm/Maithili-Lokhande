@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![Snake animation](https://github.com/lokhandemm/lokhandemm/blob/output/github-contribution-grid-snake.svg)
+
 
 📩 **Email**: lokhandemm@gmail.com  
 💼 **LinkedIn**: [lokhandemm](https://linkedin.com/in/lokhandemm)  
